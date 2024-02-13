@@ -1,0 +1,2 @@
+## LanglePlate
+AngularJS + Laravel
